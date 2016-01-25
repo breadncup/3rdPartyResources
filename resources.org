@@ -1,0 +1,4 @@
+#+STARTUP: indent
+* LocationManager
+** Learned it from https://www.youtube.com/watch?v=Z272SMC9zuQ
+** This is the convenient library to get location update / geographical information / reverse geographical info with string. 
